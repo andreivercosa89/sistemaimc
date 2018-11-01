@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{2F5D7138-7159-4BFA-8C16-27F53112917D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sistemaimc/Program.cs">
+    <Files>
+      <File FileName="sistemaimc/Program.cs" Line="9" Column="42" />
+      <File FileName="sistemaimc/Imc.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.sistemaimc PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
